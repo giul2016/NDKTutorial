@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NDKTutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="norm">Resultado Norma</string>
+    <string name="norma">...</string>
+</resources>
